@@ -28,7 +28,7 @@ It’s built for use on **Kali Linux** and other Debian-based systems, packaged 
 Download and install the `.deb` file using the following commands:
 
 ```bash
-wget https://github.com/yourusername/kali-gpt/releases/latest/download/kali-gpt-installer.deb
+wget https://github.com/kd1hack/kali-gpt-cli-wrapper/blob/main/kali-gpt-cli-wrapper-installer.deb
 sudo dpkg -i kali-gpt-installer.deb
 ```
 
